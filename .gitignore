@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE & Editor
+.vscode/
+.qodo/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database
+.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Media & Static files (if generated)
+/media/*
+/static/*
+!.gitkeep
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Python
+*.egg-info/
+dist/
+build/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django
+*.pot
+/staticfiles/
+/media/uploads/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
