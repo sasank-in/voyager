@@ -1,4 +1,4 @@
-# 🌐 TRAVELLO
+# 🌐 VOYAGER
 
 A travel planner website UI integrated with PostgreSQL. User can register and sign in.
 
@@ -20,19 +20,3 @@ A travel planner website UI integrated with PostgreSQL. User can register and si
 - [**POSTGRESQL**](https://www.postgresql.org/)
 
 ---
-
-## :iphone: Screenshots
-
-
-
-<img src="images/1.png"/>
-<img src="images/2.png"/>
-<img src="images/3.png"/>
-<img src="images/4.png"/>
-<img src="images/5.png"/>
-<img src="images/6.png"/>
-<img src="images/7.png"/>
-<img src="images/8.png"/>
----
-
-</p>
